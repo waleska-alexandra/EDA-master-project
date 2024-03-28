@@ -1,6 +1,4 @@
 
-![Waleska_Rangel](https://github.com/waleska-alexandra/EDA-master-project/assets/76563412/b1638972-916b-4ac5-9789-42611d8b6c08)
-
 # Basic Exploratory Data Analysis - Master Degree Project
 
 It was a statistics project for my master's degree in finance. The dataset contains information about an NGO, whose objective is to help people with limited resources to access medical examinations, and thus be able to cope with the diseases they may suffer from. 
@@ -97,3 +95,5 @@ Mean, min, IQR and Max
 Finally, we ran five multiple linear regression models in which we sought to predict the amount contributed according to certain characteristics. There were 5 models because we selected one for the 20,40,60,80,100 percentile. In this way, we were able to segment the sample and avoid the enormous variability in the amounts. 
 That part of the project is in SPSS and Eviews.
 The conclusion was that there were variables that the association was NOT taking into account when determining the amount, and they were doing so subjectively. However, there are ranges of people for whom the best possible amount can be predicted. 
+
+![Waleska_Rangel](https://github.com/waleska-alexandra/EDA-master-project/assets/76563412/b1638972-916b-4ac5-9789-42611d8b6c08)
